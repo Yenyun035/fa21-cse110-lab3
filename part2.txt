@@ -7,7 +7,7 @@ question 5: SvelteBeatsReact
 question 6: ThisIsJS
 question 7: YouFoundMe
 question 8: coolcoolcool
-Question 9 passcode: 2020sucked
+Question 9: 2020sucked
 question 10: listenToTheBlackKeys
 question11: a11yComesFirst
 question 12: iLoveWebDev
